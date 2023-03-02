@@ -39,8 +39,16 @@ for (let i = 1; i <= 100; i++) {
     cellContainer.append(cellBox);   
 }
 
+// Creo una variabile che richiama il contenitore del bottone
+const buttonContainer = document.querySelector(".btn_box");
 
 
+/* Creo una variabile e aggancio "la funzioen A" per creare il tasto
+bottone e aggiungere la relativa classe; aggiungo la scritta PLAY 
+all'elemento e lo appendo al contenitore button box.*/
+const playButton = createMyElement('button', 'play_button');
+playButton.innerHTML += 'PLAY';
+buttonContainer.append(playButton);
 
 
 
