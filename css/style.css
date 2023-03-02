@@ -41,7 +41,7 @@ REGOLE HEADER
 
 header{
     height: var(--header_height);
-    background-color: red;
+    background-color: pink;
 
 }
 
@@ -75,6 +75,9 @@ main{
     width: calc(70vh/10);
     height: calc(70vh/10);
     border: var(--main_border);
+    display:flex;
+    align-items: center;
+    justify-content: center;
 }
 
 
@@ -86,6 +89,6 @@ REGOLE FOOTER
 
 footer{
     height: var(--footer_height);
-    background-color: red;
+    background-color: pink;
 
 }
