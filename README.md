@@ -13,6 +13,12 @@ SVOLGIMENTO ESERCIZIO - IPOTESI
 - HTML: creare la struttura html del header/main/footer e del container delle celle.
 - CSS: crea le prime classi css per la struttura da creare.
 - HTML: fare una prova del funzionamento delle celle di prova create su html.
-- JS: creare una funzione che generi un elemento html div (ipotesi: utilizzare una funzione).
+- JS: creare una funzione che generi un elemento html div
 - JS: assegnare la classe creata su CSS relativamente alla forma della cella da creare (ipotesi: utilizzare una funzione).
-- JS: agganciare una cellaox cella dentro al container principale (ipotesi: utilizzare una funzione).
+- JS: agganciare una cella dentro al container principale (ipotesi: utilizzare una funzione). 
+- JS: creare la cella x100 con un ciclo for che racchiuda le operazioni precedenti.
+- JS: creare un evento click cella che permetta la stampa in console del numero di cella cliccato.
+- JS: creare un evento click cella che permetta alla cella di colorarsi di azzurro quando cliccata (provare ad utilizzare una funzione da richiamare).
+- JS: creare un evento click bottone PLAY che faccia comparire la griglia di gioco (di default la griglia non è presente al caricamento della pagina).
+
+
